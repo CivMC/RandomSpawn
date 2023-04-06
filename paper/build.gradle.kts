@@ -11,7 +11,7 @@ civGradle {
 }
 
 dependencies {
-    paperDevBundle("1.18.1-R0.1-SNAPSHOT")
+    paperDevBundle("1.19.4-R0.1-SNAPSHOT")
     compileOnly("net.civmc:civmodcore:2.0.0-SNAPSHOT:dev-all")
     compileOnly("net.civmc:worldborder:2.0.0-SNAPSHOT:dev")
     compileOnly("net.civmc:bastion:3.0.0-SNAPSHOT:dev")
